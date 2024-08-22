@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules
+npm-debug.log
+pnpm-debug.log
+
+# Environment files
+ormconfig.ts
+
+# Package lock files (if you prefer to handle dependencies only through pnpm-lock.yaml)
+package-lock.json
+
+# Local development and debugging files
+.editorconfig
+.eslintrc.js
+.prettierignore
+.prettierrc
+.prettierrc.json
+nest-cli.json
+nodemon-debug.json
+nodemon.json
+tsconfig-paths-bootstrap.js
+
+# Documentation files
+README.md
+sonar-project.properties
